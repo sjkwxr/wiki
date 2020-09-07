@@ -24,4 +24,10 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:私人wiki测试</loc>
+		<lastmod>2020-09-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
